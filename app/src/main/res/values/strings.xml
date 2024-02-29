@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="age_calculator">Age Calculator</string>
+    <string name="enter_your_dob">Enter Your DOB</string>
+    <string name="empty">-</string>
+    <string name="your_date_of_birth">Your date of Birth</string>
+</resources>
